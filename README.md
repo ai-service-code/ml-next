@@ -1,6 +1,8 @@
 # ml-next
 
-ml-06 Logistic Regression
+- [ ] ml-08 SVM (Support Vector Machines)
+
+ml-08 SVM (Support Vector Machines)
 ```angular2html
-git checkout ml-06
+git checkout ml-08
 ```
